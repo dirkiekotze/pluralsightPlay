@@ -1,6 +1,5 @@
 Apple Pie
-This is Lisa's version of the file
-Apple Pie 
+========== 
 One
 Two
 Three..
