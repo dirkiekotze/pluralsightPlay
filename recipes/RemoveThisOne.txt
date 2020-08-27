@@ -1,0 +1,1 @@
+Added menu item without recipy file.
